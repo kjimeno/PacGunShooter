@@ -1,0 +1,15 @@
+Background music:
+Arcade Music Loop.wav by joshuaempyre -- https://freesound.org/s/251461/ -- License: Attribution 4.0
+
+Jump sound effect:
+8bit Jump by plasterbrain -- https://freesound.org/s/399095/ -- License: Creative Commons 0
+
+Shoot sound effect:
+Blip_Select46 by MusicLegends -- https://freesound.org/s/344297/ -- License: Attribution 3.0
+
+Die sound effect:
+Pacman Is Dead by plasterbrain -- https://freesound.org/s/266163/ -- License: Creative Commons 0
+
+Boss attacked sound effect:
+8 Bit Slam by Jofae -- https://freesound.org/s/361636/ -- License: Creative Commons 0
+
